@@ -8,7 +8,7 @@ Contributions are Github's bread-and-butter, the main purpose. It's time to star
  
 ## The Pull Request
 
-Git offers a way to push code to a repository without owning it, or even being invited to it, it's called a `Pull request` and the main goal of this exercise is to create your first `Pull request`. [Here is a 12min video explaining pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
+Git offers a way to push code to a repository without owning it, or even being invited to it, it's called a `Pull Request` and the main goal of this exercise is to create your first `Pull Request`. [Here is a 12 min video explaining pull requests](https://www.youtube.com/watch?v=_NrSWLQsDL4).
 
 ## Your Public Profile
   
@@ -16,7 +16,7 @@ During this project you will start building your professional profile, one of th
 
 - It will be the first version of your developer portfolio.
 
-- This will be the first version of your Resume (as a coder).
+- This will be the first version of your resume (as a coder).
   
 - It will give more context to your learning experience: you can see a table of everything you will learn throughout the course.
   
@@ -34,7 +34,7 @@ Don't worry about the content of your profile, today its just about the YML stru
   
 2. Open the new forked repository using a provisioning tool like Codespaces (recommended) or Gitpod (ask your teacher on how to open your fork).
   
-3. In your *codespace*, create a file `<your_github_username>.yml` file inside `/site/resumes/` with your profile information. 
+3. In your *codespace*, create a `<your_github_username>.yml` file inside `/site/resumes/` with your profile information. 
 
   The `YML` file must contain all your personal and professional information. Check the details in [Completing the YML file](#completing-the-yml-file)
   
